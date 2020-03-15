@@ -1,0 +1,8 @@
+1.- Command to track file inside our repository => git add .
+  - When we try to track a file inside a folder that was not initialized as a repository it will display NOT A GIT REPOSITORY message.
+
+2. => git commit -m "Added source code files"
+
+3. => Git is a software which make programmers job easier by controlling their work and introducing their work with one other.
+
+4. No,it is not because to say it is repository it should be able to be managed by a VCS so a folder with source code of our app inside is only a project not a repository.

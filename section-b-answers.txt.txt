@@ -1,0 +1,15 @@
+1. => git checkout -b newbranch-name
+
+2. No,it is not a good idea to do all our work on a single branch because if we somewhat make a change that affect one another work it will create a big
+   conflict in one branch but if we work on two different branches, the changes we made on our own branch does not affect one another's work since it is 
+   on different branch.
+
+3. example 1 => the refs folder - it contains the head folder which has all the braches created so far and each branch contain the hash value of the recent commit 
+                                  thier own branch.
+   example 2 => the head file - contians the following line : refs/heads/master ==> which indicate the actual location to the reference file
+
+
+4. - Switch to the fixes brach using the command => git checkout fixes
+   - Verify the changes on the fixes branch by => make sure they are tracked files using the command - git add .
+                                               => they are committed using the command - git commit -m " "
+

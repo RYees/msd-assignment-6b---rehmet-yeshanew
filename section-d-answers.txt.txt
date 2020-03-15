@@ -1,0 +1,6 @@
+1. I would suggest they stick with the XML because XML is the best way to go when a well-defined,easily validated structure is needed as is often the case with data 
+   standards and XML is the best for document-oriented applications.However,if they insisted to change the XML I would just to use json because it has abilities that 
+   is really effective.
+
+2. I don't think there is a problem with it,the API is just returning the correct response for a false credentials.
+   

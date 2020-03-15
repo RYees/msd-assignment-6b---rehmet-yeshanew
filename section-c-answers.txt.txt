@@ -1,0 +1,15 @@
+1. - git pull REMOTE-NAME BRANCH-NAME
+
+2. => fast forwarding merge
+   => 3-way merge
+
+3. git merge branch-name -m  " "
+
+4. Causes of conflict => when different changes occur on same file or different branches
+                      => when a file edited on one branch and deleted on other branche
+   
+   Way to deal with conflict => The easy way is to undo the conflict
+                             => Resolve the merge conflict
+
+5. - git push origin master
+   - git push origin develop
